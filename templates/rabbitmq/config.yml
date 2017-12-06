@@ -1,0 +1,4 @@
+name: RabbitMQ
+description: RabbitMQ
+version: 3.6.5
+category: Messaging
